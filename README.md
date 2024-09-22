@@ -1,1 +1,1 @@
-# CSCI 6212 Convex Hull Divide and Conquer
+# CSCI-6212: Solving Convex Hull using Divide and Conquer
