@@ -1,1 +1,1 @@
-# CSCI-6212_Convex_Hull_Divide_and_Conquer
+# CSCI 6212 Convex Hull Divide and Conquer
