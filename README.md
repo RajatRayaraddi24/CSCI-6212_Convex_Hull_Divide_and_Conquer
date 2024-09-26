@@ -1,1 +1,6 @@
 # CSCI-6212: Solving Convex Hull using Divide and Conquer
+## Notes:
+- [convexhull.py](https://github.com/RajatRayaraddi24/CSCI-6212_Convex_Hull_Divide_and_Conquer/blob/main/convexhull.py) generates an output of the time taken (in nanoseconds) for the algorithm to run for different values of n (number of points). Also generates a plot for Times v/s n.
+- Uncomment Line 155 in [convexhull.py](https://github.com/RajatRayaraddi24/CSCI-6212_Convex_Hull_Divide_and_Conquer/blob/main/convexhull.py) to output the list of points that make up the final convex hull of the points generated in the current iteration.
+- To output a visualization of the convex hull of a set of points: Comment Lines 141 and 164-171, Uncomment Lines 142 and 157-162. You can change the number of points in Line 142, but as n increases, the graph generated gets fuller and convoluted.
+- [plot.py](https://github.com/RajatRayaraddi24/CSCI-6212_Convex_Hull_Divide_and_Conquer/blob/main/plot.py) generates a plot for Experimental and Theoretical Times v/s n, the experimental times are taken from one of the runs of [convexhull.py](https://github.com/RajatRayaraddi24/CSCI-6212_Convex_Hull_Divide_and_Conquer/blob/main/convexhull.py). The data for this plot is also available in [Table.pdf](https://github.com/RajatRayaraddi24/CSCI-6212_Convex_Hull_Divide_and_Conquer/blob/main/Table.pdf).
